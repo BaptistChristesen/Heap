@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Heap
+comment0.text=\n\ Write\ a\ description\ of\ class\ b\ here.\n\n\ @author\ \ (your\ name\ here)\n\ @version\ (today's\ date)\n
+comment1.params=
+comment1.target=Heap()
+comment10.params=hole
+comment10.target=void\ reheapDown(int)
+comment2.params=item
+comment2.target=java.lang.Comparable\ add(java.lang.Comparable)
+comment3.params=
+comment3.target=java.lang.Comparable\ remove()
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment5.params=hole
+comment5.target=void\ reheapUp(int)
+comment6.params=
+comment6.target=void\ clear()
+comment7.params=
+comment7.target=java.lang.Comparable\ peek()
+comment8.params=
+comment8.target=boolean\ empty()
+comment9.params=
+comment9.target=int\ size()
+numComments=11
